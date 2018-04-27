@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name_tour: MyString
+  image: MyString
+  description: MyText
+  price_per_person: 1.5
+  category: one
+  place: one
+  image: one
+
+two:
+  name_tour: MyString
+  image: MyString
+  description: MyText
+  price_per_person: 1.5
+  category: two
+  place: two
+  image: two
